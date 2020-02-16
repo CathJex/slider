@@ -1,2 +1,2 @@
 # slider
-slider for GEUS Bulletin
+slider for GEUS Bulletin no animation
